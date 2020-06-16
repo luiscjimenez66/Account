@@ -1,10 +1,16 @@
 .vs
 Account.API/bin
+Account.API/obj
+Account.BusinessLayer/bin
 Account.BusinessLayer/obj
 Account.DataAccessLayer/bin
+Account.DTO/bin
 Account.DTO/obj
 Account.Entities/bin
 Account.InfrastructureEF/bin
+Account.InfrastructureEF/obj
+Account.Interfaces/bin
 Account.Interfaces/obj
 API.Helper/bin
-Documentacion/Documentación API Account Test.docx
+Documentacion
+Account.DTO/bin/

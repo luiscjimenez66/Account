@@ -16,5 +16,13 @@ namespace Account.BusinessLayer
         {
             EURO = 1
         }
+
+        public enum eTransactionType
+        {
+            DEPOSIT = 1,
+            WITHDRAW = 2,
+            TRANSFER_MONEY = 3
+
+        }
     }
 }

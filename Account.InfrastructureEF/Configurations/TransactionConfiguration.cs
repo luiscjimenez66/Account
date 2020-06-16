@@ -18,6 +18,7 @@ namespace Account.InfrastructureEF
             builder.Property(_ => _.DestinationBalanceId).IsRequired(false);
             builder.Property(_ => _.Amount).IsRequired().HasColumnType("decimal(22, 4)");
             builder.Property(_ => _.CurrentAmount).IsRequired().HasColumnType("decimal(22, 4)");
+            builder.Property(_ => _.TransactionNro).IsRequired();
 
             builder.Property(_ => _.CreateAt).IsRequired();
 

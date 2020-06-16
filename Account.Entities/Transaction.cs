@@ -20,6 +20,8 @@ namespace Account.Entities
 
         public decimal CurrentAmount { get; set; }
 
+        public string TransactionNro { get; set; }
+
         public DateTime CreateAt { get; set; }
 
         public Balance Balance { get; set; }
