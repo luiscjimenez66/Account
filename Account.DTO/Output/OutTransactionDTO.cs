@@ -7,5 +7,7 @@ namespace Account.DTO.Output
     public class OutTransactionDTO
     {
         public string TransaccionNro { get; set; }
+
+        public decimal Amount { get; set; }
     }
 }
