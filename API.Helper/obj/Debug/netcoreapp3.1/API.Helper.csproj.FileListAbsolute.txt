@@ -1,0 +1,16 @@
+C:\Users\luisc\source\repos\Accounts\API.Helper\bin\Debug\netcoreapp3.1\API.Helper.deps.json
+C:\Users\luisc\source\repos\Accounts\API.Helper\bin\Debug\netcoreapp3.1\API.Helper.dll
+C:\Users\luisc\source\repos\Accounts\API.Helper\bin\Debug\netcoreapp3.1\API.Helper.pdb
+C:\Users\luisc\source\repos\Accounts\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.csprojAssemblyReference.cache
+C:\Users\luisc\source\repos\Accounts\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.AssemblyInfoInputs.cache
+C:\Users\luisc\source\repos\Accounts\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.AssemblyInfo.cs
+C:\Users\luisc\source\repos\Accounts\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.dll
+C:\Users\luisc\source\repos\Accounts\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.pdb
+C:\Desarrollo\Account\API.Helper\bin\Debug\netcoreapp3.1\API.Helper.deps.json
+C:\Desarrollo\Account\API.Helper\bin\Debug\netcoreapp3.1\API.Helper.dll
+C:\Desarrollo\Account\API.Helper\bin\Debug\netcoreapp3.1\API.Helper.pdb
+C:\Desarrollo\Account\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.csprojAssemblyReference.cache
+C:\Desarrollo\Account\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.AssemblyInfoInputs.cache
+C:\Desarrollo\Account\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.AssemblyInfo.cs
+C:\Desarrollo\Account\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.dll
+C:\Desarrollo\Account\API.Helper\obj\Debug\netcoreapp3.1\API.Helper.pdb

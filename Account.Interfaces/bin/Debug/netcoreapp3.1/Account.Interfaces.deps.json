@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Account.Interfaces/1.0.0": {
+        "dependencies": {
+          "Account.DTO": "1.0.0",
+          "Account.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Account.Interfaces.dll": {}
+        }
+      },
+      "Account.DTO/1.0.0": {
+        "runtime": {
+          "Account.DTO.dll": {}
+        }
+      },
+      "Account.Entities/1.0.0": {
+        "runtime": {
+          "Account.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Account.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account.DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Account.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

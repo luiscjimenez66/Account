@@ -1,0 +1,10 @@
+.vs
+Account.API/bin
+Account.BusinessLayer/obj
+Account.DataAccessLayer/bin
+Account.DTO/obj
+Account.Entities/bin
+Account.InfrastructureEF/bin
+Account.Interfaces/obj
+API.Helper/bin
+Documentacion/Documentación API Account Test.docx

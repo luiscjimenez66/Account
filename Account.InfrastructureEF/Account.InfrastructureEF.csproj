@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20200613174756_Initial_create_batabase.cs" />
+    <Compile Remove="Migrations\20200613174756_Initial_create_batabase.Designer.cs" />
+    <Compile Remove="Migrations\20200614211000_Modified_user_table.cs" />
+    <Compile Remove="Migrations\20200614211000_Modified_user_table.Designer.cs" />
+    <Compile Remove="Migrations\20200614211758_Modified_user_table.cs" />
+    <Compile Remove="Migrations\20200614211758_Modified_user_table.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Account.Entities\Account.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
