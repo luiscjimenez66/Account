@@ -12,5 +12,5 @@ Account.InfrastructureEF/obj
 Account.Interfaces/bin
 Account.Interfaces/obj
 API.Helper/bin
-Documentacion
+Documentacion/*.docx
 Account.DTO/bin/
